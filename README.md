@@ -102,7 +102,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LevelVoid&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LevelVoid&show_icons=true&theme=dark&hide_border=false" alt="GitHub stats" />
 </p>
 
 ---
